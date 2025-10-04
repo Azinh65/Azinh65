@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azinh65
-- 👀 I’m interested in developing applications and projects 
+- 👀 I’m interested in developing applications and websites 
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on .Sql language and programming 
+- 💞️ I’m looking to collaborate on internet programming networking
 - 📫 How to reach me you can reach me on azinjon377@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i fit in any area 
